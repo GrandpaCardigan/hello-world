@@ -1,0 +1,2 @@
+# hello-world
+WELCOME TO BOOT CAMP, SCRUBS.
